@@ -280,9 +280,6 @@ ul {
 PROJECT CSS
 =============
 */
-* {
-  border: 1px solid red;
-}
 body {
   background: var(--grey-200);
 }
